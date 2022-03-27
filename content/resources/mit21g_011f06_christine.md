@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87b0f699-43f0-a535-4477-2d9a5771cc70
 resourcetype: Document
 title: Christine
 uid: f20068c0-f988-0518-2e88-77313331775e

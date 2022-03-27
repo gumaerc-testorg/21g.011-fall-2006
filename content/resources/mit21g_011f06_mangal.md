@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87b0f699-43f0-a535-4477-2d9a5771cc70
 resourcetype: Document
 title: "Mangal Pande\u2014Doctor Scene"
 uid: ffaad012-3f1c-5038-4f50-d70a2bff8c62
