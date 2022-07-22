@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the films and readings for the course, organized
+  by weekly session and topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a55fbea5-266a-3b34-4a92-aac45c34da2d
 ---
