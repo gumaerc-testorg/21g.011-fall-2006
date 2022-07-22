@@ -5,6 +5,7 @@ file: /courses/21g-011-topics-in-indian-popular-culture-spectacle-masala-and-gen
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Christine
 uid: f20068c0-f988-0518-2e88-77313331775e
 ---
 Example of student work for a memoir-writing assignment.
-

@@ -6,6 +6,7 @@ file: /courses/21g-011-topics-in-indian-popular-culture-spectacle-masala-and-gen
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Villains
 uid: 94b52721-2aed-11f2-4e3e-4521ba612713
 ---
 Example of student work: a comparison of the antagonists of Omkara and Othello.
-

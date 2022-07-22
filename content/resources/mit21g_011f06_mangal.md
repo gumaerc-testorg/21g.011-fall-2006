@@ -6,6 +6,7 @@ file: /courses/21g-011-topics-in-indian-popular-culture-spectacle-masala-and-gen
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Mangal Pande\u2014Doctor Scene"
 uid: ffaad012-3f1c-5038-4f50-d70a2bff8c62
 ---
 Example of student work for an assignment to create an alternative scenario based on a film discussed in the course.
-
